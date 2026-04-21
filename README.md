@@ -8,7 +8,7 @@ The goal is to simulate real-world business analysis and provide **data-driven r
 
 ---
 
-## 🎯 Objectives
+##  Objectives
 
 * Analyze overall sales performance
 * Identify high-performing occasions and product categories
@@ -18,7 +18,7 @@ The goal is to simulate real-world business analysis and provide **data-driven r
 
 ---
 
-## 📁 Dataset Information
+##  Dataset Information
 
 * **Source:** Sample E-commerce Dataset (IGP-inspired)
 * **Total Orders:** 1,000
@@ -34,7 +34,7 @@ The goal is to simulate real-world business analysis and provide **data-driven r
 
 ---
 
-## 🛠 Tools & Techniques Used
+##  Tools & Techniques Used
 
 * Microsoft Excel
 * Pivot Tables & Pivot Charts
@@ -44,16 +44,16 @@ The goal is to simulate real-world business analysis and provide **data-driven r
 
 ---
 
-## 📊 Dashboard Features
+##  Dashboard Features
 
-### 🔑 Key Metrics (KPIs)
+###  Key Metrics (KPIs)
 
 * Total Orders
 * Total Revenue
 * Average Customer Spending
 * Average Delivery Time
 
-### 📈 Visual Analysis
+###  Visual Analysis
 
 * Revenue by Occasion
 * Revenue by Category
@@ -64,17 +64,15 @@ The goal is to simulate real-world business analysis and provide **data-driven r
 
 ---
 
-## 📸 Dashboard Preview
+##  Dashboard Preview
 
-*(Add your screenshot in the repo and link it here)*
 
-```md
 ![Dashboard](screenshots/dashboard.png)
-```
+
 
 ---
 
-## 🔍 Key Insights
+##  Key Insights
 
 * Revenue is highly **seasonal and occasion-driven**
 * **Anniversary and Raksha Bandhan** contribute the most revenue
@@ -85,7 +83,7 @@ The goal is to simulate real-world business analysis and provide **data-driven r
 
 ---
 
-## 💡 Business Recommendations
+##  Business Recommendations
 
 * Focus marketing on **high-performing occasions**
 * Promote **top product categories** and bundle low-performing ones
@@ -96,7 +94,7 @@ The goal is to simulate real-world business analysis and provide **data-driven r
 ---
 
 
-## 🚀 How to Use
+##  How to Use
 
 1. Download the Excel dashboard file
 2. Open in Microsoft Excel (2016 or later recommended)
@@ -104,7 +102,7 @@ The goal is to simulate real-world business analysis and provide **data-driven r
 
 ---
 
-## 📌 Project Highlights
+##  Project Highlights
 
 * End-to-end Excel data analysis project
 * Business-focused insights and recommendations
@@ -113,7 +111,7 @@ The goal is to simulate real-world business analysis and provide **data-driven r
 
 ---
 
-## 🔗 Future Improvements
+##  Future Improvements
 
 * Add customer segmentation (RFM Analysis)
 * Build predictive sales forecasting
@@ -122,7 +120,7 @@ The goal is to simulate real-world business analysis and provide **data-driven r
 
 ---
 
-## 👤 Author
+##  Author
 
 **Harish Kumar**
 Aspiring Data / Business Analyst
