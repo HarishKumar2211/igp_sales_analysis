@@ -95,22 +95,6 @@ The goal is to simulate real-world business analysis and provide **data-driven r
 
 ---
 
-## 📂 Repository Structure
-
-```
-📦 igp-sales-analysis
- ┣ 📂 data
- ┃ ┣ raw_data.xlsx
- ┃ ┗ cleaned_data.xlsx
- ┣ 📂 dashboard
- ┃ ┗ igp_dashboard.xlsx
- ┣ 📂 screenshots
- ┃ ┗ dashboard.png
- ┣ 📜 README.md
- ┗ 📜 insights.md
-```
-
----
 
 ## 🚀 How to Use
 
