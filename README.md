@@ -144,7 +144,6 @@ This highlights opportunities to improve fulfillment speed and customer satisfac
 
 ## 📷 Dashboard Preview
 
-
 ![IGP sales analysis Dashboard](screenshots/dashboard.png)
 
 ## 📂 Project Structure
