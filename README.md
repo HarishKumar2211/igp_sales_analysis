@@ -145,7 +145,9 @@ This highlights opportunities to improve fulfillment speed and customer satisfac
 ## 📷 Dashboard Preview
 
 ![Dashboard](screenshots/dashboard.png)
+
 ```
+
 ## 📂 Project Structure
 
 ```
@@ -169,10 +171,3 @@ IGP-Ecommerce-Sales-Analysis/
 
 This project demonstrates how Excel can be used as a business intelligence tool to analyze e-commerce performance, uncover customer behavior patterns, and generate data-driven recommendations that support strategic decision-making.
 
-
-##  Author
-
-**Harish Kumar**
-**Data Analyst**
-
----
