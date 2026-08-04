@@ -144,26 +144,27 @@ This highlights opportunities to improve fulfillment speed and customer satisfac
 
 ## 📷 Dashboard Preview
 
-> Add a screenshot of your Excel dashboard here.
 
-```
-dashboard.png
-```
-
----
+![IGP sales analysis Dashboard](screenshots/dashboard.png)
 
 ## 📂 Project Structure
 
 ```
 IGP-Ecommerce-Sales-Analysis/
 │
-├── Dataset/
-│   └── IGP_Ecommerce_Data.xlsx
-│
 ├── Dashboard/
-│   └── IGP_Sales_Dashboard.xlsx
+│   └── igp_sales_analysis.xlsx
 │
-├── Images/
+├── Data/
+│   └── customers.csv
+│   └── orders.csv
+│   └── products.csv
+│
+├── Reports/
+│   └── IGP_Business_Insights.docx
+│   └── Indian Gift Portal Business Problem.pdf
+│
+├── screenshots/
 │   └── dashboard.png
 │
 └── README.md
